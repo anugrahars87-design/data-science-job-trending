@@ -23,7 +23,7 @@ It explores:
 - Excel (Pivot Tables, Slicers, Graphs, Data Validation)
 
 ## 📷 Dashboard Preview
-<img width="1826" height="639" alt="Screenshot 2025-11-14 220447" src="https://github.com/user-attachments/assets/3b99908e-2fe5-4bb5-aa82-eeec030ca894" />
+<img width="1629" height="623" alt="Screenshot 2026-01-16 144904" src="https://github.com/user-attachments/assets/b6fac2d5-4e25-470c-b2e9-604ef9c2d53e" />
 
 ## 🚀 How to Use
 1. Download `jobs_dashboard.xlsx`.
